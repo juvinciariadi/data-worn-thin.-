@@ -1,7 +1,7 @@
 post_id,title,pillar,status,publish_date,hook_stat,sources,notes
-00,Intro carousel (Issue 0),N/A,published,,,U.S. Bureau of Labor Statistics (2026),First post: premise, pillars, the person, the difference, AI disclosure
-01,,1,idea,,,,
-02,,2,idea,,,,
-03,,3,idea,,,,
-04,,4,idea,,,,
-05,,5,idea,,,,
+0,Intro carousel (Issue 0),N/A,published,,,U.S. Bureau of Labor Statistics (2026),First post: premise
+1,,1,idea,,,,
+2,,2,idea,,,,
+3,,3,idea,,,,
+4,,4,idea,,,,
+5,,5,idea,,,,
