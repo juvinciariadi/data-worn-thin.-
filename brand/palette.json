@@ -1,0 +1,29 @@
+{
+  "palette": [
+    {
+      "name": "Cocoa",
+      "hex": "#664E44",
+      "role": "Dominant, text/ink, dark backgrounds, primary accents"
+    },
+    {
+      "name": "Dusty",
+      "hex": "#B08B7F",
+      "role": "Accent, flags an issue, secondary numbers/icons"
+    },
+    {
+      "name": "Peach",
+      "hex": "#FFE8D6",
+      "role": "Light card/panel background"
+    },
+    {
+      "name": "Cream",
+      "hex": "#FAF4E5",
+      "role": "Main slide background"
+    },
+    {
+      "name": "Sage",
+      "hex": "#C7C3B0",
+      "role": "Supporting/decorative tone, used sparingly"
+    }
+  ]
+}
