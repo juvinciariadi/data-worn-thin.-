@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large research source files (kept locally, not in git)
+data/raw/**/source-files/*.pdf

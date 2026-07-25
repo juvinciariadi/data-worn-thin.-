@@ -1,0 +1,5 @@
+label,income_bracket,pct_used_bnpl,pct_paid_late
+< $25k,Less than $25000,16.0,40.0
+$25-49k,25000 to 49999,19.0,26.0
+$50-99k,50000 to 99999,16.0,21.0
+$100k+,100000 or more,11.0,13.0
