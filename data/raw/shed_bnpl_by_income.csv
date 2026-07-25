@@ -1,0 +1,14 @@
+year,income_bracket,pct_used_bnpl,pct_paid_late,pct_only_way_afford,source_reference,notes
+2021,Less than $25000,12,23,,SHED-2021 Table 14,
+2021,25000 to 49999,14,18,,SHED-2021 Table 14,
+2021,50000 to 99999,11,11,,SHED-2021 Table 14,
+2021,100000 or more,7,6,,SHED-2021 Table 14,
+2021,Aggregate,10,15,51,SHED-2021 Figure 28 + narrative,
+2021,Under $50000 combined,,,60,SHED-2021 narrative,Approximate per narrative wording (around 60 percent)
+2021,100000 or more (reasons),,,25,SHED-2021 narrative,Approximate per narrative wording (about one-fourth)
+2024,Less than $25000,16,40,,SHED-2024 Table 34,
+2024,25000 to 49999,19,26,,SHED-2024 Table 34,
+2024,50000 to 99999,16,21,,SHED-2024 Table 34,
+2024,100000 or more,11,13,,SHED-2024 Table 34,
+2024,Aggregate,15,24,58,SHED-2024 Table 33 + narrative,
+2024,Under $50000 combined,,,72,SHED-2024 narrative,
