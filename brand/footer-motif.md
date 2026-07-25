@@ -1,0 +1,1 @@
+ Divider motif: `× > > > > > > > > ×` (short version for tight spaces: `× > > > ×`)
