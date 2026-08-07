@@ -226,3 +226,6 @@ DWT - instructions.md
 # prevent raw data files from being tracked
 data/raw/*
 !data/raw/.gitkeep
+
+# ignore screenshots
+sources/screenshots/
