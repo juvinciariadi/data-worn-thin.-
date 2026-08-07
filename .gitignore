@@ -219,3 +219,6 @@ __marimo__/
 
 # Large research source files (kept locally, not in git)
 data/raw/**/source-files/*.pdf
+
+# Claude instruction file
+dwt_instructions.md
