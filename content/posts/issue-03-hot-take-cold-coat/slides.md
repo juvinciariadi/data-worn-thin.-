@@ -62,9 +62,9 @@ Citation on chart: (Google Trends, US, winter peaks 2023-24 through 2025-26)
 `Slide 7 — THE TAKE`
 
 **Headline:** Even the coat wasn't buying it.
-Sub-headline: The label collapsed in six weeks. The coats it was supposedly built on didn't blink, they're still on Depop right now for AU$40-150, same as they'd be any other winter. Globally, the industry produces far more than anyone wears: a garbage truck's worth of textiles gets landfilled or burned every second. A trend dying fast doesn't mean what it was selling goes anywhere. It just means the industry's already moved on to the next name.
+Sub-headline: The trend collapsed in six weeks. The coats it was supposedly built on didn't blink, they're still on Depop right now for US$28-105, same as they'd be any other winter. Globally, the industry produces far more than anyone wears: a garbage truck's worth of textiles gets landfilled or burned every second. A trend dying fast doesn't mean what it was selling goes anywhere. It just means the industry's already moved on to the next name.
 Citation: (Depop, 2026; Ellen MacArthur Foundation, 2017)
-Aside: "No Godfather-style loyalty here. Even the merch moved on faster than the fans did." (reference, not a quoted line)
+Aside: "It had makeover-movie energy from day one. Six weeks later, there was no makeover to show for it." (reference, not a quoted line)
 
 ---
 
