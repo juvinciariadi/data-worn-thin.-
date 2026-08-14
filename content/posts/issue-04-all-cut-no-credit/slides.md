@@ -67,7 +67,7 @@ Aside: "Less villain-boss drama, more a hundred small, completely legal decision
  
 **Headline:** The minimum wage isn't a living wage.
 Chart 2: A Bangladesh garment worker's wage, against reality.
-Supporting line: The $130 pair costs even more time: 17.93 hours at minimum wage, 4.01 at the average wage. The price gap isn't just dollars, it's time, and not everyone has the same amount of it to spare.
+Supporting line: Bangladesh's legal minimum wage comes out to about $105 a month. The Anker Research Institute estimates a Dhaka family actually needs closer to $403 a month to get by, almost four times higher. That gap isn't a rounding error, it's the whole paycheck.
 Citation on chart: (Public Eye & Clean Clothes Campaign, 2026)
 
 
