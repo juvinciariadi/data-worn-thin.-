@@ -221,7 +221,7 @@ __marimo__/
 data/raw/**/source-files/*.pdf
 
 # claude instruction file
-DWT - instructions.md
+claude-instructions.md
 
 # prevent raw data files from being tracked
 data/raw/*
