@@ -217,6 +217,10 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# --------------------------------------------------------
+# Data Worn Thin Specific
+# --------------------------------------------------------
+
 # large research source files (kept locally, not in git)
 data/raw/**/source-files/*.pdf
 
@@ -229,3 +233,6 @@ data/raw/*
 
 # ignore screenshots
 sources/issue-*/screenshots/
+
+# drafts folder
+drafts/
