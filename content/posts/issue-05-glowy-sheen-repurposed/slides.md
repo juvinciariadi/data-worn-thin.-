@@ -57,7 +57,8 @@ Citation: (Google, 2026; Lancôme, n.d.; American Salon, 2026)
 ## `Slide 5 — THE BRIDGE`
  
 **Headline:** One finish, endless outcomes.
-**Supporting line:** Even horror movies know the trick, put on the right foundation and nobody asks what you covered up. The industry's version is a lot less dramatic: new name, same cover-up.
+**Supporting line:** Horror franchises do this constantly, same story, new title, and audiences show up anyway. There's a scene in Jennifer's Body where she's just going through her usual routine while everything underneath is absolute chaos.
+Femininity kind of expects that: look effortless no matter what's actually going on. Skin tint's whole pitch is that same effortless look, just relaunched every few years under a new name.
  
 *(footer: 4/7)*
  
@@ -77,7 +78,7 @@ Chart 2: Cost distribution chart
 ## `Slide 7 — THE TAKE`
  
 **Headline:** Skin tint isn't over. It's just on its fourth name this decade.
-**Supporting line:** You're not wrong for wanting the glow. The industry just keeps handing you a new bottle for the same feeling, hoping you don't notice it's the one you already had.
+**Supporting line:** Not everyone's buying at the same rate either. Some find their perfect match and stick with it for years. Others are five formats deep before they notice it's the same promise they already paid for, once under "skin tint," now under something else. The industry doesn't really care which one you are, as long as someone's buying.
  
 *(footer: 6/7)*
  
