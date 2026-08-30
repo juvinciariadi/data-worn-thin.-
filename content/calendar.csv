@@ -1,11 +1,13 @@
-post_id,title,pillar,status,due_date,hook_stat,notes
-00,Intro carousel (Issue 0),N/A,published,19/07/2026,N/A,post: premise pillars the person the difference AI disclosure
-01,Buy Now Owe Later,4,published,25/07/2026,Apparel prices are the highest they've ever been in 26 years,"Affordable != cheap angle, Canva carousel and caption already drafted2"
-02,The Denim Divide,1,published,01/08/2026,Cost of jeans per wear,Single item cost-per-wear vs CPI apparel inflation and minimum wage hours4
-03,Hot Take Cold Coat,2,published,08/08/2026,How long it takes a trend to die down,One viral trend case study rise and fall in search interest
-04,Threaded Through Credited Nowhere,3,published,15/08/2026,How much a garment worker earns per top sold,T-shirt markup breakdown worker wage vs retail price vs brand margin
-05,Glowy Sheen Repurposed,5,published,22/08/2026,,Reserved for pillar 5 trend forecast with receipts occasional slot
-06,Coat of Many Colors,4,published,28/08/2026,,Reserved for pillar 4 - a tribute to dolly parton for understanding that style meant self expression instead of being like the others
-07,,1,idea,05/09/2026,, Reserved for pillar 1
-08,,2,idea,12/09/2026,,Reserved for pillar 2
-09,,3,idea,19/09/2026,, Reserved for pillar 3
+post_id,title,pillar,carousel_status,carousel_date,reel_status,reel_date,linkedin_status,linkedin_date,hook_stat,notes
+00,Intro carousel (Issue 0),N/A,published,19/07/2026,n/a,n/a,posted,,,First post no reel for this one
+01,Buy Now Owe Later,4,published,25/07/2026,n/a,n/a,,,,Fill in real dates and reel/linkedin status
+02,The Denim Divide,1,published,01/08/2026,n/a,n/a,,,,Fill in real dates and reel/linkedin status
+03,Hot Take Cold Coat,2,published,08/08/2026,n/a,n/a,,,,Fill in real dates and reel/linkedin status
+04,Threaded Through Credited Nowhere,3,published,15/08/2026,n/a,n/a,,,,Fill in real dates and reel/linkedin status
+05,Glowy Sheen Repurposed,5,published,"22/08/2026
+",n/a,n/a,,,,Confirm actual carousel status before filling in
+06,Coat of Many Colors,4,published,29/08/2026,idea,02/09/2026,idea,01/09/2026,"A UK school banned Canada Goose, Moncler, and Pyrenex coats
+up to $1,280, explicitly to stop kids who couldn't afford them from
+feeling singled out. Nearly thirty years earlier, a University of Florida
+study found 91% of students cited brand names as a major reason for what
+they wore.",Currently in active production two chart BTS reel planned
