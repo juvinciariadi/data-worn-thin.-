@@ -22,7 +22,7 @@ Pillar 1 revisit (price-per-wear, capsule wardrobe cost vs. fast fashion)
 
 **Body (italic serif, short spaced paragraphs):**
 
-**Diana Spencer** wore the same pieces for years. The same coat, restyled. The same jumper, more than once.
+**Diana Spencer** wore the same pieces for years. The same skirt, restyled. The same jumper, more than once.
 
 Long before outfit-repeating had a hashtag, she just did it. Quietly, and often.
 
