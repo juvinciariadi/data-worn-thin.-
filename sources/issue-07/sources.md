@@ -6,30 +6,23 @@
 
 **Hook stat / qualitative finding:** Morgan, L.R. and Birtwistle, G. (2009). Full text obtained and read. Confirmed finding: cheaper items bought for one-off socializing are discarded quickly (cited reasons: lower quality, new fashion trend, one-off event use), while expensive items are retained even when unworn, due to guilt/attachment. Source: focus groups (71 females, 17-25 age group, Dec 2005) and a 206-person street-intercept survey (Glasgow, autumn 2007).
 
-## Still needed (manual prices, on-site verification required before publishing)
-
-| Item | Retailer/source | Price | Currency | Date checked | Sale price? | Screenshot | Notes |
-|---|---|---|---|---|---|---|---|
-| Durable patterned/wool knit sweater | TBD (John Lewis "Geometric" knitwear category is the lead) | — | — | — | — | Local only, not committed to repo | Needs specific product picked and verified on-site |
-| Fast-fashion patterned knit sweater | TBD (Zara women's knitwear, [zara.com/us/en/woman-knitwear-sweaters-l1165.html](https://www.zara.com/us/en/woman-knitwear-sweaters-l1165.html) is the lead, no dedicated geometric filter, browse for current patterned stock) | — | — | — | — | Local only, not committed to repo | Zara runs fewer deep storewide sales than Boohoo/Shein, lower risk of an inflated "standard" price being actually a sale price, but still confirm on the product page |
-
 ## Durable pick (confirmed)
 
-**COS Belt-Detail Merino Wool Sweater, Steel Blue** ([product page](https://www.cos.com/en-us/women/womenswear/knitwear/jumpers/merino/product/belt-detail-merino-wool-jumper-steel-blue-1317124001))
-- Standard price: **$199.00** (this is the real price to cite)
-- Currently showing $139.30 due to COS's active "Labor Day 30% Off" sitewide sale, code-based markdown, not the standard price, do not log $139.30
+**COS Belt-Detail Merino Wool Jumper, Steel Blue** ([AU product page](https://www.cos.com/en-au/women/womenswear/knitwear/jumpers/merino/product/belt-detail-merino-wool-jumper-steel-blue-1317124001))
+- Standard price: **AU$225.00** (this is the real price to cite)
+- Currently showing AU$112.00 due to an active COS AU sale (~50% off), a separate regional markdown from the US site's 30% off, not the standard price, do not log AU$112
 - Merino wool, regular fit, ribbed crew neckline, belt detail at waist, steel blue
 - In stock as of this check
-- **Note:** this replaces the earlier Zara Bubble Knit Jumper as the anchor silhouette. Fast-fashion match now needs to target crew neck + regular fit + belt detail + blue, not the Zara piece's oversized mock-neck shape.
+- Now in the same native currency (AUD) as the Zara AU fast-fashion pick below
 
 ## Fast-fashion pick (confirmed)
 
-**Zara Basic Knit Jumper, Navy Blue** ([product page](https://www.zara.com/us/en/basic-knit-jumper-p08851172.html?v1=550676343))
-- Price: **$45.90**, no sale flag
-- Round neck, long sleeves, button detailing
+**Zara AU Basic Plain Knit Jumper, Ink Blue** ([product page](https://www.zara.com/au/en/basic-plain-knit-jumper-p08851850.html?v1=552340463))
+- Price: **AU$65.95**, no sale flag
+- Round neck, long sleeves, buttoned cuffs
 - Composition: 83% viscose, 15% polyamide, 2% elastane
 - In stock as of this check
-- Matches the simplified criteria (crew/round neck + blue) after dropping the belt-detail requirement
+- AU catalog equivalent of the earlier US "Basic Knit Jumper" find (US site doesn't carry the identical item); this is the version that matches Juvincia's native currency per the project's sourcing convention
 
 ## Candidates on file (superseded, no longer in use)
 
