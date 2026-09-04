@@ -40,7 +40,7 @@ This one's for her.
 
 **Body:**
 
-A cheap top bought for one night out rarely survives the season. Lower quality, chasing a trend, worn once and done.
+A cheap top bought for one night out rarely survives the season. Lower quality, chasing a trend, worn once and done. Kind of like this month's gem stickers, on for a photo, off by the wash.
 
 An expensive piece, though, tends to stick around, even unworn. Not because it fits perfectly. Because it feels wasteful to let it go.
 
