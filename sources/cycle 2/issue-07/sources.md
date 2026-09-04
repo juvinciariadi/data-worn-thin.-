@@ -31,10 +31,11 @@
 - [Mango Polo Neck Argyle Jumper](https://shop.mango.com/us/en/p/women/sweaters-and-cardigans/polos/polo-neck-argyle-jumper/37034107/56/00), Navy: $69.99 shown, argyle pattern (geometric, matches criterion), Navy is in the blue family (matches criterion). **Flag: Mango is running a storewide 30% off sale (code MNG30) as of this check, unclear if $69.99 is standard or already-discounted pricing. Do not log as final price until confirmed post-sale or otherwise verified as the standard price.** Grey "Argyle knit sweater" version also available at same price, same sale caveat applies.
 - [H&M Jacquard-Knit Sweater](https://www2.hm.com/en_us/productpage.1303126001.html): Navy with brown/gray argyle diamonds, $47.99, wool/polyester/acrylic/spandex blend. Strong match on criteria (blue, geometric, no sale flag) but confirmed **sold out** as of Juvincia's check. Not usable as-is, kept on file in case it restocks.
 
-## Still needed (data pulls)
+## Data pulls (confirmed)
 
-- BLS Consumer Expenditure Survey: annual apparel purchases per household. Feeds both the hook-stat background and Chart 2's trend-chasing purchase-frequency curve.
-- Purchase-frequency assumption for the capsule strategy (how rarely anchor pieces get replaced): source not yet identified, needs a defensible citation, not a guess.
+- **BLS Consumer Expenditure Survey (via FRED):** CXUAPPARELLB0101M, "Expenditures: Apparel and Services: All Consumer Units," annual, USD, not seasonally adjusted. Pulled via `notebooks/cycle 2/issue-07/7.1-apparel-spend.ipynb`. Full range 1984-2024; branded chart uses 2000-2024. Key figures: 2019 pre-pandemic high $1,883, 2020 pandemic dip $1,434, 2023 series peak $2,041, 2024 $2,001. Feeds hook-stat context and Chart 2's trend-chasing spend backdrop (dollar spend, not literal item counts).
+- **Capsule-strategy replacement frequency:** WRAP (2012), *Valuing Our Clothes*. ~2.2 years average UK garment lifetime (all quality tiers, general population). Used as a conservative baseline for the capsule/durable side of Chart 2's spend model, not durable-specific data, genuinely durable pieces would likely outlast this average. Flag in caption/methodology note.
+- **Trend-chasing purchase frequency:** Morgan & Birtwistle (2009), Table 3 (Purchasing Behaviour), already cited for the hook stat. Real survey distribution of purchase frequency (weekly through twice-yearly); "once a month" (~34%, largest group) used as central-tendency default for modeling.
 
 ## Considered, not used
 

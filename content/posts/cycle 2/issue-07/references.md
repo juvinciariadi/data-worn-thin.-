@@ -4,6 +4,8 @@ Morgan, L. R., & Birtwistle, G. (2009). An investigation of young fashion consum
 
 U.S. Bureau of Labor Statistics. (n.d.). *Consumer Expenditure Surveys: Expenditures: Apparel and services: All consumer units* [CXUAPPARELLB0101M]. Retrieved from FRED, Federal Reserve Bank of St. Louis. https://fred.stlouisfed.org/series/CXUAPPARELLB0101M
 
+WRAP. (2012). *Valuing our clothes: The true cost of how we design, use and dispose of clothing in the UK*. https://www.wrap.ngo/resources/report/valuing-our-clothes-cost-uk-fashion
+
 *Chart 1 citation carried over from Issue #6 (06a), see Issue #6's references.md for the full FRED CPIAPPSL/AHETPI citation.*
 
 ---
