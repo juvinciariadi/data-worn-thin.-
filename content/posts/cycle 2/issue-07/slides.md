@@ -56,13 +56,15 @@ An expensive piece, though, tends to stick around, even unworn. Not because it f
 
 **Body:**
 
-Last week's chart showed clothes getting cheaper relative to wages. That's the backdrop for everything that follows.
+Last week's chart showed clothes getting cheaper relative to wages. Here's what's happened to actual spending since.
 
-**Chart:** Chart 1: Apparel CPI vs. Wages (recalled from Issue #6, 06a)
+Apparel spend dropped sharply in 2020, then climbed to a new high by 2023, higher than any year in the past two decades.
+
+**Chart:** Chart 1: Apparel & Services Spend, All Consumer Units (1985–2024)
 
 **Legend:** dot-marker, per template
 
-**Citation (under chart):** U.S. Bureau of Labor Statistics, FRED series CPIAPPSL, AHETPI (see Issue #6 references.md for full citation)
+**Citation (under chart):** U.S. Bureau of Labor Statistics, Consumer Expenditure Surveys: Expenditures: Apparel and services: All consumer units [CXUAPPARELLB0101M]. Retrieved from FRED, Federal Reserve Bank of St. Louis.
 
 ---
 
@@ -76,7 +78,7 @@ Last week's chart showed clothes getting cheaper relative to wages. That's the b
 
 Picture two ways of building a wardrobe. One buys something new most months. The other buys one good piece and wears it for years.
 
-The second one costs more on day one. Here's what happens after that.
+Everyone remembers the revenge dress, one dress, one night, one legendary read on an ex. But most days looked more like the nap: the same handful of pieces, worn again and again. Less headline, more habit.
 
 *(No chart on this slide, transition/explainer only, keep data-dense chart on the next slide per house style)*
 
@@ -90,9 +92,11 @@ The second one costs more on day one. Here's what happens after that.
 
 **Body:**
 
-Trend-chasing adds up to **$2,898**. Buying one durable piece and replacing it only when it wears out adds up to **$486**.
+That's 61 separate trips buying something new over five years for the trend-chasing shopper, based on real survey data showing people who chase trends tend to buy something new about once a month.
 
-The gap keeps growing every year.
+The capsule shopper makes 3 trips in the same five years. One to buy the piece, two more only when it eventually wears out, based on the average lifespan of a well-made garment.
+
+Add it up, and it's **$2,898** versus **$486**.
 
 **Chart:** Chart 2: Cumulative Spend, Capsule vs. Trend-Chasing (5 years)
 
@@ -102,15 +106,15 @@ The gap keeps growing every year.
 
 ---
 
-## Slide 7 — THE CATCH
-
 **Label:** THE CATCH.
 
 **Headline:** The math works. The *upfront* doesn't.
 
 **Body:**
 
-A durable piece pays for itself over time. But "over time" isn't the problem. The problem is the price tag on day one.
+The durable piece costs about **3x more** per purchase. But it's bought roughly 20x less often, that mismatch is what drives the whole gap.
+
+The problem isn't the math. It's that "3x more" has to be paid all at once, on day one, not spread out over five years like the savings are.
 
 Not everyone has that much cash sitting around for one jumper, even if it's the cheaper choice in the long run.
 
@@ -118,16 +122,19 @@ Not everyone has that much cash sitting around for one jumper, even if it's the 
 
 ## Slide 8 — THE TAKE
 
-**Layout:** Sage background, closing card
+**Headline:** Some things come back *around*.
 
-**Headline (closing line, not fully locked, revisit once caption is drafted):**
+**Body:**
 
-Buying one good piece instead of five cheap ones sounds simple. Only some of us can afford for it to be.
+The math was never really in question. Buying less, and buying it well, wins every time.
 
----
+What's changed is who gets to play that game. It takes enough spare cash upfront to make the years-long version possible at all.
 
-## Notes for caption.md (not slide copy)
+Even her handbag is still getting rewear. Decades later, on someone else's arm entirely.
 
-- Reflective takeaway, not a stats recap
-- Reader already saw the numbers, caption should sit with what they mean
-- Good candidate thread: rewearing as a quiet, unglamorous form of privilege, not really about Diana specifically in the caption, she did the framing work in the carousel already
+## Slide 9 — CLOSING CARD.
+
+**Body:** New post weekly.
+Next issue drops Saturday.
+
+*Full references in caption.*
