@@ -6,8 +6,7 @@ U.S. Bureau of Labor Statistics. (n.d.). *Consumer Expenditure Surveys: Expendit
 
 WRAP. (2012). *Valuing our clothes: The true cost of how we design, use and dispose of clothing in the UK*. https://www.wrap.ngo/resources/report/valuing-our-clothes-cost-uk-fashion
 
-*Chart 1 citation carried over from Issue #6 (06a), see Issue #6's references.md for the full FRED CPIAPPSL/AHETPI citation.*
-
+Federal Reserve Bank of St. Louis. (n.d.). *Expenditures: Apparel and Services: All Consumer Units [CXUAPPARELLB0101M]*. FRED. Retrieved September 4, 2026, from https://fred.stlouisfed.org/series/CXUAPPARELLB0101M
 ---
 
 ## Not cited in final content (kept for internal record only, per house convention of not citing anything not actually used)
