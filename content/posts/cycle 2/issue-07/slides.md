@@ -8,15 +8,13 @@ Pillar 1 revisit (price-per-wear, capsule wardrobe cost vs. fast fashion)
 
 **Layout:** full-bleed photo, Dusty pink tint overlay, rounded-corner frame, Cocoa serif headline, italic subtitle, wordmark bottom-left
 
-**Photo:** Diana, 1985, blue geometric-print jumper (rights handled separately by Juvincia)
-
 **Headline:** Reign, Repeat
 
 **Subtitle (italic):** *on wearing it more than once*
 
 ---
 
-## Slide 2 — DEDICATION
+## Slide 2 — THE ICON.
 
 **Layout:** two-column, photo left / text right, label "DEDICATION."
 
@@ -24,7 +22,7 @@ Pillar 1 revisit (price-per-wear, capsule wardrobe cost vs. fast fashion)
 
 **Body (italic serif, short spaced paragraphs):**
 
-She wore the same pieces for years. The same coat, restyled. The same jumper, more than once.
+**Diana Spencer** wore the same pieces for years. The same coat, restyled. The same jumper, more than once.
 
 Long before outfit-repeating had a hashtag, she just did it. Quietly, and often.
 
