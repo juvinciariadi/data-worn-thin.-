@@ -8,6 +8,14 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-NoDeriv
 
 Full legal text: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
+## Third-Party Media
+
+Some posts include photographs, film stills, or other visual material not created by Data, Worn Thin. This material is NOT covered by the CC BY-NC-ND 4.0 license above, it remains the property of its original rights holders (photographers, studios, agencies, estates).
+
+Such material is used under fair use for the purposes of commentary, criticism, and data journalism analysis. It is not used decoratively and is limited to what's necessary to support the specific point being made.
+
+If you are a rights holder and want an image removed or credited differently, contact @datawornthin on instagram and it will be addressed promptly.
+
 ## In short
 
 You are free to:
