@@ -1,14 +1,13 @@
-post_id,title,pillar,carousel_status,carousel_date,reel_status,reel_date,linkedin_status,linkedin_date,hook_stat,notes
+post_id,title,pillar,carousel_status,carousel_date,reel_status,reel_date,linkedin_carousel_status,linkedin_carousel_date,hook_stat,notes
 00,Intro carousel (Issue 0),N/A,published,19/07/2026,n/a,n/a,posted,,,First post no reel for this one
 01,Buy Now Owe Later,4,published,25/07/2026,n/a,n/a,,,,Fill in real dates and reel/linkedin status
-02,The Denim Divide,1,published,01/08/2026,n/a,n/a,,,,Fill in real dates and reel/linkedin status
-03,Hot Take Cold Coat,2,published,08/08/2026,n/a,n/a,,,,Fill in real dates and reel/linkedin status
+02,The Denim Divide,1,published,1/08/2026,n/a,n/a,,,,Fill in real dates and reel/linkedin status
+03,Hot Take Cold Coat,2,published,8/08/2026,n/a,n/a,,,,Fill in real dates and reel/linkedin status
 04,Threaded Through Credited Nowhere,3,published,15/08/2026,n/a,n/a,,,,Fill in real dates and reel/linkedin status
 05,Glowy Sheen Repurposed,5,published,"22/08/2026
 ",n/a,n/a,,,,Confirm actual carousel status before filling in
-06,Coat of Many Colors,4,published,29/08/2026,posted,02/09/2026,posted,01/09/2026,"A UK school banned Canada Goose, Moncler, and Pyrenex coats
-up to $1,280, explicitly to stop kids who couldn't afford them from
+06,Coat of Many Colors,4,published,29/08/2026,posted,2/09/2026,posted,1/09/2026,"A UK school banned coats up to $1,280, explicitly to stop kids who couldn't afford them from
 feeling singled out. Nearly thirty years earlier, a University of Florida
 study found 91% of students cited brand names as a major reason for what
-they wore.",Currently in active production two chart BTS reel planned
-,,,,,,,,,,
+they wore.",Has beem published and reel is also posted on both Instagram and LinkedIn
+07,"Reign, Rewear.",1,published,5/09/2026,posted,8/09/2026,posted,8/09/2026,"Cheap one-off buys get tossed fast; pricey pieces get kept even unworn, out of guilt." - Morgan & Birtwistle, 2009","Reel will be posted on 10/9/2026 on LinkedIn, other posts have been posted"
