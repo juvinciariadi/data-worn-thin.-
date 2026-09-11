@@ -65,3 +65,21 @@ Citation: Ellen MacArthur Foundation, 2017; U.S. Government Accountability Offic
 *(footer: 5/7)*
  
 ---
+
+## `Slide 7 — THE TAKE`
+ 
+**Headline:** Quiet, they called it.
+Supporting line: They called it quiet luxury. There was nothing quiet about how rapidly it spread, or how quick it burned out. Learning your own silhouette isn't a four-month trend. Only some of us are paying for it later, once this season's copy hits the landfill.
+ 
+*(footer: 6/7)*
+ 
+---
+
+## `Slide 8 — Closing card`
+ 
+Small text: New post weekly. Next issue drops Saturday.
+Sources line: Full references in caption.
+ 
+*(footer: x > > > > > > > > x · 7/7)*
+ 
+---
