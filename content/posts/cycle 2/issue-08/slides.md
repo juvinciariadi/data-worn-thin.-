@@ -54,7 +54,7 @@ Citation: (Kounina et al., 2024)
  
 ---
 
-## `Slide 6 — THE COST, continued`
+## `Slide 6 — THE MATH`
  
 **Headline:** The afterlife of a fourth-month trend.
 Chart 2: Four-figure comparison, % landfilled/incinerated, % recycled into new garments, % of apparel plastic waste that's synthetic, % of textiles containing microplastics.
