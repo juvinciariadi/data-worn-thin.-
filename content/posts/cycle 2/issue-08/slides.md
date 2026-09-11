@@ -46,10 +46,22 @@ Citation: (Google Trends, 2026)
 ## `Slide 5 — THE COST`
  
 **Headline:** The trend left. The plastic didn't.
-Supporting line: The fashion industry was estimated to have leaked 8.3 million tons of plastic pollution in 2019. Most of this traces back to synthetic fabric with a short shelf life, the same kind of fabric a lot of trend-chasing pieces are made from.  
+Supporting line: The fashion industry was estimated to have leaked 8.3 million tons of plastic pollution in 2019. Most of this traces back to synthetic fabric with a short shelf life, the same kind of fabric used to make a lot of trend-chasing pieces.    
  
 Citation: (Kounina et al., 2024)
  
 *(footer: 4/7)*
+ 
+---
+
+## `Slide 6 — THE COST, continued`
+ 
+**Headline:** The afterlife of a fourth-month trend.
+Chart 2: Four-figure comparison, % landfilled/incinerated, % recycled into new garments, % of apparel plastic waste that's synthetic, % of textiles containing microplastics.
+Supporting line: 73% of discarded textiles end up in landfills or incinerators. Less than 1% gets recycled into new garments. Once buried, roughly 60% of those textiles contain microplastics that decompose into the soil.
+ 
+Citation: Ellen MacArthur Foundation, 2017; U.S. Government Accountability Office, 2024
+ 
+*(footer: 5/7)*
  
 ---
