@@ -42,3 +42,14 @@ Citation: (Google Trends, 2026)
 *(footer: 3/7)*
  
 ---
+
+## `Slide 5 — THE COST`
+ 
+**Headline:** The trend left. The plastic didn't.
+Supporting line: The fashion industry was estimated to have leaked 8.3 million tons of plastic pollution in 2019. Most of this traces back to synthetic fabric with a short shelf life, the same kind of fabric a lot of trend-chasing pieces are made from.  
+ 
+Citation: (Kounina et al., 2024)
+ 
+*(footer: 4/7)*
+ 
+---
