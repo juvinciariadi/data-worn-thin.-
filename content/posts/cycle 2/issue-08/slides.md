@@ -19,3 +19,14 @@ Pillar 2 revisit: trend cycle speed
 Supporting line: The term "Quiet luxury" has been everywhere this year, and it always references one woman from the 90s: Carolyn Bessette-Kennedy. Her look and this year's rendition of it don't share a timeline though. One took decades. The other's already fading.
  
 *(footer: 1/7)*
+
+---
+
+## `Slide 3 — THE FOCUS`
+ 
+**Headline:** She wasn't following a trend. She *was* the trend.
+Supporting line: CBK wore the standard 90s uniform, as did plenty others. What made it read as iconic: she knew her own proportions, stuck to one palette, and purposely repeated the same handful of pieces.
+ 
+*(footer: 2/7)*
+ 
+---
