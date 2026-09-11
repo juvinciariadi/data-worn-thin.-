@@ -1,0 +1,5 @@
+## Issue #08: [title TBD]
+### issue08_video_sources
+- **Video essay on CBK style discourse (Jada)** — YouTube, checked 2026-09-11. URL: https://youtu.be/zbz287JusRw. Used for: the beauty-standard/privilege critique (caption candidate only, not a slide claim); the detail that CBK reportedly cut labels out of her own clothes to stay neutral.
+- **The Truth About Carolyn Besette-Kennedy's Style (Let's Get Dressed)** — YouTube, checked 2026-09-11. URL: https://youtu.be/-ikEu2egmu8. Used for: the volume/noise → categorization mechanism; framing of CBK's restraint as intentional rather than circumstantial. Named, on-record source, expert opinion rather than peer-reviewed research.
+- **Corroborating context, not primary** — CBS News piece drawing on Sunita Kumar Nair's book *CBK: Carolyn Bessette Kennedy: A Life in Fashion*, and an ASOS retrospective article, both found via search 2026-09-11, not fetched in full. Used only to confirm quiet luxury's lineage to CBK is broadly supported, not cited as a standalone stat.
