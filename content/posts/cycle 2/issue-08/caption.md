@@ -2,9 +2,10 @@ Every trend cycle promises the sam shortcut: buy this, look like her, skip the t
 
 Perhaps the real "quiet luxury" was never a silhouette at all. It was just having the patience to not buy something new every four months.
 
+References:
 Ellen MacArthur Foundation. (2017). A new textiles economy: Redesigning fashion's future. Ellen MacArthur Foundation. https://www.ellenmacarthurfoundation.org/a-new-textiles-economy
 
-Google Trends. (2026). Search interest over time: "quiet luxury," "logomania," "loud luxury" [Data set]. Google. https://trends.google.com
+Google Trends. (2026). Search interest over time: "quiet luxury," "logomania," "loud luxury" [quiet_vs_loud_luxury_interest.csv]. Google. https://trends.google.com
 
 Kounina, A., Daystar, J., Chalumeau, S., Devine, J., Geyer, R., Pires, S. T., Uday Sonar, S., Venditti, R. A., & Boucher, J. (2024). The global apparel industry is a significant yet overlooked source of plastic leakage. Nature Communications, 15, Article 5022. https://doi.org/10.1038/s41467-024-49441-4
 
