@@ -4,7 +4,7 @@ Ellen MacArthur Foundation. (2017). *A new textiles economy: Redesigning fashion
 Ellen MacArthur Foundation. https://www.ellenmacarthurfoundation.org/a-new-textiles-economy
 
 Google Trends. (2026). *Search interest over time: "quiet luxury," "logomania," "loud
-luxury"* [Data set]. Google. https://trends.google.com
+luxury"* [quiet_vs_loud_luxury_interest.csv]. Google. https://trends.google.com
 
 Kounina, A., Daystar, J., Chalumeau, S., Devine, J., Geyer, R., Pires, S. T., Uday Sonar, S.,
 Venditti, R. A., & Boucher, J. (2024). The global apparel industry is a significant yet
