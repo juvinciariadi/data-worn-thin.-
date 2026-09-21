@@ -231,8 +231,5 @@ claude-instructions.md
 data/raw/*
 !data/raw/.gitkeep
 
-# ignore screenshots
-sources/issue-*/screenshots/
-
 # drafts folder
 drafts/
