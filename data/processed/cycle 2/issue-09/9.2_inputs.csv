@@ -1,0 +1,9 @@
+input,value,unit_or_date
+"Bangladesh garment minimum, monthly",12500.0,BDT
+"Exchange rate, taka per US dollar",123.17,2026-10-08
+"US sewing machine operator, median hourly",17.37,USD
+Hours in a full-time year,2080.0,hours
+"Auction price, one pair of jeans",52000.0,USD
+"One jeans maker's US plants, early 1980s",63.0,plants
+"Same jeans maker's US plants, after Jan 2004",0.0,plants
+"Share of US clothing imported, approximate",97.0,percent
