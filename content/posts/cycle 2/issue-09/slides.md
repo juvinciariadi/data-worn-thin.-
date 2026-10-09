@@ -46,3 +46,14 @@ Supporting line: About 97 in 100 pieces of clothing sold in the US now come from
 *(footer: 3/7)*
  
 ---
+
+## `Slide 5 — THE PRICE`
+ 
+**Headline:** Here is the part that helped *you*. By 2010 clothes cost about the same as in 1990. Everything else cost about **71%** more.
+
+Supporting line: By 2010, clothes had gone back down to what they cost in 1990, while everything else cost ~71% more. That gap was real money back in shopper’s pockets and it mattered the most to those with the least to spare. However, only part of it came from cheaper sewing.
+ 
+Chart 2: Three lines starting together in 1990: prices of everyday stuff, prices of clothes, and US sewing jobs, 1990 to 2026.
+Citation: (U.S. Bureau of Labor Statistics, n.d.-a, n.d.-b, n.d.-c)
+ 
+*(footer: 4/7)*
