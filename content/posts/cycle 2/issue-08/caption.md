@@ -18,4 +18,4 @@ U.S. Bureau of Labor Statistics. (2026c). Consumer price index for all urban con
 
 U.S. Bureau of Labor Statistics. (2026d). May 2025 national industry-specific occupational employment and wage estimates: Apparel manufacturing. https://data.bls.gov/timeseries/CES3231500003
 
-#whomademyclothes #garmentworkers #fashioneconomics #costofliving #datajournalism
+#marilynmonroe #denim #fashionhistory #fastfashion #datajournalism
