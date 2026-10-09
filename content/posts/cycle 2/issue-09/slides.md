@@ -24,3 +24,16 @@ Supporting line: Marilyn Monroe wore them in a western and shared them with her 
 *(footer: 1/7)*
  
 ---
+
+## `Slide 3 — THE STAT`
+ 
+**Headline:** While the jeans got famous, the job of *making* jeans was disappearing. 
+
+Supporting line: In 2000, about 504,000 people worked in US clothing factories. By 2010, about 161,000. Roughly 94 jobs gone every day for a decade, and the fall had started years earlier.
+ 
+Chart 1: US clothing factory jobs, 1990 to 2026, with the 2000s shaded.
+Citation: (U.S. Bureau of Labor Statistics, n.d.-a)
+ 
+*(footer: 2/7)*
+ 
+---
