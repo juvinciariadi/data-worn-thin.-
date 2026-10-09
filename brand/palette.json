@@ -24,6 +24,11 @@
       "name": "Sage",
       "hex": "#C7C3B0",
       "role": "Supporting/decorative tone, used sparingly"
+    },
+    {
+      "name": "Black",
+      "hex": "#1A1A1A",
+      "role": "Strongest tone, headline line and text"
     }
   ]
 }
