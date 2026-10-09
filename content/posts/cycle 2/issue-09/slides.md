@@ -37,3 +37,12 @@ Citation: (U.S. Bureau of Labor Statistics, n.d.-a)
 *(footer: 2/7)*
  
 ---
+
+## `Slide 4 — THE MECHANISM`
+ 
+**Headline:** Manufacturing jeans *didn't stop*, it *moved*.
+Supporting line: About 97 in 100 pieces of clothing sold in the US now come from somewhere else. The sewing went to countries where the same work costs for far less. Nobody held a meeting, the industry just did the same math and ended up with the same solution.
+  
+*(footer: 3/7)*
+ 
+---
