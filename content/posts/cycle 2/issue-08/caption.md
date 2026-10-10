@@ -1,21 +1,14 @@
-Every label tells you something: who designed it, who sells it, sometimes who wore it. It almost never tells you who made it. A pair of jeans can end up in an auction catalogue with a film credit and a famous name attached, and the one person missing from the story is whoever sat at the sewing machine.
+Every trend cycle promises the sam shortcut: buy this, look like her, skip the thirty years of figuring out what actually works on you. But a shortcut of using someone's elses style as a costume was never a shortcut, it's a rental. And rentals get returned fast, usually straight to the landfill.
 
-Perhaps that's why cheap clothes feel like they cost nothing extra. The saving is real. So are the people covering it, they just never made it onto the label.
+Perhaps the real "quiet luxury" was never a silhouette at all. It was just having the patience to not buy something new every four months.
 
 References:
+Ellen MacArthur Foundation. (2017). A new textiles economy: Redesigning fashion's future. Ellen MacArthur Foundation. https://www.ellenmacarthurfoundation.org/a-new-textiles-economy
 
-Andaloro, A. (2025, April 17). Marilyn Monroe's jeans go for $52K at auction along with a rare item from her makeup collection (exclusive). People. https://www.aol.com/entertainment/marilyn-monroes-jeans-52k-auction-151825416.html
+Google Trends. (2026). Search interest over time: "quiet luxury," "logomania," "loud luxury" [quiet_vs_loud_luxury_interest.csv]. Google. https://trends.google.com
 
-Julien's Auctions. (2025). Julien's Bold Luxury focuses limelight on iconic celebrity curations. https://www.juliensauctions.com/en/articles/julien-s-bold-luxury-focuses-limelight-on-iconic-celebrity-curations
+Kounina, A., Daystar, J., Chalumeau, S., Devine, J., Geyer, R., Pires, S. T., Uday Sonar, S., Venditti, R. A., & Boucher, J. (2024). The global apparel industry is a significant yet overlooked source of plastic leakage. Nature Communications, 15, Article 5022. https://doi.org/10.1038/s41467-024-49441-4
 
-Paul, R., & Jamkhandikar, S. (2023, November 8). Bangladesh hikes minimum wage for garment workers after protests. Reuters. https://www.reuters.com/world/asia-pacific/bangladesh-hikes-minimum-wage-garment-workers-after-protests-minister-2023-11-07/
+U.S. Government Accountability Office. (2024). Textile waste: Federal entities should collaborate on reduction and recycling efforts (GAO-25-107165). https://www.gao.gov/products/gao-25-107165
 
-U.S. Bureau of Labor Statistics. (2026a). All employees, apparel manufacturing [CES3231500001]. FRED, Federal Reserve Bank of St. Louis. https://fred.stlouisfed.org/series/CES3231500001
-
-U.S. Bureau of Labor Statistics. (2026b). Consumer price index for all urban consumers: All items in U.S. city average [CPIAUCSL]. FRED, Federal Reserve Bank of St. Louis. https://fred.stlouisfed.org/series/CPIAUCSL
-
-U.S. Bureau of Labor Statistics. (2026c). Consumer price index for all urban consumers: Apparel in U.S. city average [CPIAPPSL]. FRED, Federal Reserve Bank of St. Louis. https://fred.stlouisfed.org/series/CPIAPPSL
-
-U.S. Bureau of Labor Statistics. (2026d). May 2025 national industry-specific occupational employment and wage estimates: Apparel manufacturing. https://data.bls.gov/timeseries/CES3231500003
-
-#marilynmonroe #denim #fashionhistory #fastfashion #datajournalism
+#quietluxury #trendcycles #microtrends #textilewaste #slowfashion
