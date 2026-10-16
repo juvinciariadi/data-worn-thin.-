@@ -80,3 +80,17 @@ Citation: (Google, 2026)
 *(footer: 5/9)*
  
 ---
+
+## `Slide 7: THE COST`
+ 
+**Headline:** Fashion might follow the market. But the market isn't *most* people's money.
+ 
+Supporting line: For every **$100** of US stocks, about **$51** belongs to the richest 1% of households. The bottom half hold about **60 cents**, between all of them. In 1989, the top 1% held about **$43**. So when a skirt gets read as good news for the stock market, the obvious follow-up is: good news for whom?
+ 
+Chart (from 10.1, section 2.2): who owns $100 of US stocks, Q2 2026 (top 1%, next 9%, middle 40%, bottom 50%)
+ 
+Citation: (Board of Governors of the Federal Reserve System, 2026)
+ 
+*(footer: 6/9)*
+ 
+---
