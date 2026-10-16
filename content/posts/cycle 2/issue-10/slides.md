@@ -27,4 +27,16 @@ Visual note: Sabrina at Coachella 2026
  
 *(footer: 1/9)*
  
+--- 
+
+## `Slide 3: THE STAT`
+ 
+**Headline:** Longer skirts meant a recession. A year later, shorter skirts meant a *boom*.
+ 
+Supporting line: In March 2025, maxi skirt popularity jumped **393%** in a week, and got read online as a recession warning. In April 2026, miniskirts rose **78%**, and got read as the economy looking up. Opposite lengths, opposite verdicts, both in spring. One reading used a week of online data. The study that actually tested the idea used almost **90 years** of hemlines.
+ 
+Citation: (Lapuerta, 2025, 2026; van Baardwijk & Franses, 2010)
+ 
+*(footer: 2/9)*
+ 
 ---
