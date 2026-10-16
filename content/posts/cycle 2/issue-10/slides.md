@@ -31,7 +31,7 @@ Citation: (Marie Claire, 2026; Lapuerta, 2026)
  
 **Headline:** Longer skirts meant a recession. A year later, shorter skirts meant a *boom*.
  
-Supporting line: In March 2025, maxi skirt popularity jumped **393%** in a week, and got read online as a recession warning. In April 2026, miniskirts rose **78%**, and got read as the economy looking up. Opposite lengths, opposite verdicts, both in spring. A week of searches can catch a mood. To test the theory itself, one study looked at almost 90 years of hemlines.
+Supporting line: In March 2025, maxi skirt popularity jumped 393% in a week and got read online as a recession warning. In April 2026, miniskirts rose 78% and got read as the economy looking up. Opposite lengths, opposite verdicts, both in spring. A week of searches can catch a mood. To test the theory itself, one study looked at almost 90 years of hemlines.
  
 Citation: (Lapuerta, 2025, 2026; van Baardwijk & Franses, 2010)
  
@@ -43,7 +43,7 @@ Citation: (Lapuerta, 2025, 2026; van Baardwijk & Franses, 2010)
  
 **Headline:** The man credited with the hemline index was writing about *stockings*.
  
-Supporting line: In **1929**, a Wharton PhD student studied why stocking sales boomed in the 1920s. One reason: shorter skirts put more leg on show, so women bought better stockings, more often. That's it. That's the theory. He never said skirts could predict the economy. That part got added later, somewhere between the retelling and the reposting.
+Supporting line: In 1929, a Wharton PhD student studied why stocking sales boomed in the 1920s. One reason: shorter skirts put more leg on show, so women bought better stockings, more often. That’s it. That’s the theory. He never said skirts could predict the economy. That part got added later, somewhere between the retelling and the reposting.
  
 Citation: (Taylor, 1929, pp. 27, 115)
  
