@@ -1,4 +1,4 @@
-@databutmakeitfashion’s posts sent me down this rabbit hole and honestly? I’m a believer too. Clothes do echo the economy (a 90-year study found it, just a few years late), even if Google’s sofas briefly disagreed. So I wanted to add the part a hemline can’t show: who owns the market it’s read against and who feels a downturn before any skirt does.
+@databutmakeitfashion’s posts sent me down this rabbit hole and honestly? I’m a believer too. Clothes do echo the economy and a 90-year study found it, just a few years later, even if Google’s sofas briefly disagreed. So I wanted to add the part a hemline can’t show: who owns the market it’s read against and who feels a downturn before any skirt does.
 
 Cycle 2, wrapped. Cycle 3 lands after exams. Until then: if a trend is a recession warning, whose recession is it warning about?
 
