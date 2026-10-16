@@ -110,3 +110,26 @@ Citation: (U.S. Bureau of Labor Statistics, 2025, 2026)
 *(footer: 7/9)*
  
 ---
+
+## `Slide 9: THE TAKE`
+ 
+**Headline:** Long story short: the skirt was *never* the signal.
+ 
+Supporting line: It’s a fun idea and it’ll be back every spring. But the people a downturn reaches first won’t be the ones changing their hemlines, they show up in the jobs data.
+ 
+Closing line: For some of us it’s a trend. For the rest, it hits before the skirts do.
+ 
+*(footer: 8/9)*
+ 
+---
+ 
+## `Slide 10: Closing card`
+*(No label)*
+ 
+That's a wrap on cycle 2.
+Cycle 3 lands after my exams.
+ 
+New issues every Saturday.
+Full references in caption.
+ 
+*(footer: 9/9)*
