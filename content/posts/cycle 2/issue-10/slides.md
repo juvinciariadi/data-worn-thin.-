@@ -94,3 +94,19 @@ Citation: (Board of Governors of the Federal Reserve System, 2026)
 *(footer: 6/9)*
  
 ---
+
+## `Slide 8: THE FORECAST`
+ 
+**Headline:** Some wardrobes have nothing left to *cut*.
+ 
+Supporting line: When the economy turned in 2008 and 2020, middle and higher-income households cut clothing spending by **13%** to **35%**. The lowest-earning 20% barely changed theirs. Likely not because times were good: at around **$800** a year, there may not be much left to cut. The downturn showed up elsewhere. At the 2020 peak, about **1 in 5** adults without a high school diploma were out of work, compared with about **1 in 12** with a degree.
+ 
+Forecast line: Our call: the next time a trend gets read as a recession signal, the people it hits hardest won't be the ones changing their style.
+ 
+Chart (from 10.2, section 2.3): change in clothing spending by income group, 2008 to 2010 and 2020 (percentage change)
+ 
+Citation: (U.S. Bureau of Labor Statistics, 2025, 2026)
+ 
+*(footer: 7/9)*
+ 
+---
