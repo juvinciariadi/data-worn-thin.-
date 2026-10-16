@@ -54,3 +54,15 @@ Visual note: Include a picture of George W. Taylor
 *(footer: 3/9)*
  
 ---
+
+## `Slide 5: THE TURN`
+ 
+**Headline:** When researchers tested it, the skirts were always *late*.
+ 
+Supporting line: In 2010, two economists coded almost **90 years** of hemlines from a French fashion magazine. The economy did shape skirt lengths, but about **3 years** later, once trends had time to be designed, made and worn. When they checked whether skirts could warn of a recession, they found nothing. One of them now calls the hemline index an urban legend.
+ 
+Citation: (Van Baardwijk & Franses, 2010; Het Financieele Dagblad, 2025)
+ 
+*(footer: 4/9)*
+ 
+---
