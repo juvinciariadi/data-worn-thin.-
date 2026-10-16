@@ -66,3 +66,17 @@ Citation: (Van Baardwijk & Franses, 2010; Het Financieele Dagblad, 2025)
 *(footer: 4/9)*
  
 ---
+
+## `Slide 6: THE MECHANISM`
+ 
+**Headline:** Every spring, maxi skirts. In April 2026, also *sofas*.
+ 
+Supporting line: Maxi skirt searches are about **2x** higher in May than in January, every single year. That's the season, not a recession. And in the week of 12 April 2026, Google searches for miniskirts jumped, but so did maxi skirts, jeans and sofas, all in the same week. Pizza didn't move. When everything spikes at once, it isn't a hemline. It's a data blip.
+ 
+Chart 1: Google search interest, US, Jan 2022 to Sep 2026: mini skirt, jeans, sofa, pizza (each on its own scale), dashed line at the week of 12 April 2026
+ 
+Citation: (Google, 2026)
+ 
+*(footer: 5/9)*
+ 
+---
