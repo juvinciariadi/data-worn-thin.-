@@ -20,6 +20,8 @@ Credit line (small, under the subtitle): Inspired by @databutmakeitfashion
 **Headline:** In April 2026, a miniskirt got read as a sign the economy was *thriving*.
  
 Supporting line: Sabrina Carpenter took the Coachella stage in custom Dior. Soon after, a jump in miniskirt popularity was being read online as good news for the stock market. Nobody asked the skirt. The idea has a name, and it's older than your grandmother's stockings: the hemline index.
+
+Citation: (Marie Claire, 2026; Lapuerta, 2026)
  
 *(footer: 1/9)*
  
@@ -29,7 +31,7 @@ Supporting line: Sabrina Carpenter took the Coachella stage in custom Dior. Soon
  
 **Headline:** Longer skirts meant a recession. A year later, shorter skirts meant a *boom*.
  
-Supporting line: In March 2025, maxi skirt popularity jumped **393%** in a week, and got read online as a recession warning. In April 2026, miniskirts rose **78%**, and got read as the economy looking up. Opposite lengths, opposite verdicts, both in spring. One reading used a week of online data. The study that actually tested the idea used almost **90 years** of hemlines.
+Supporting line: In March 2025, maxi skirt popularity jumped **393%** in a week, and got read online as a recession warning. In April 2026, miniskirts rose **78%**, and got read as the economy looking up. Opposite lengths, opposite verdicts, both in spring. A week of searches can catch a mood. To test the theory itself, one study looked at almost 90 years of hemlines.
  
 Citation: (Lapuerta, 2025, 2026; van Baardwijk & Franses, 2010)
  
@@ -55,7 +57,7 @@ Visual note: Include a picture of George W. Taylor
  
 **Headline:** When researchers tested it, the skirts were always *late*.
  
-Supporting line: In 2010, two economists coded almost 90 years of hemlines from a French fashion magazine. The economy did shape skirt lengths, but about 3 years later, once trends had time to be designed, made and worn. So the skirts do follow the economy. They just can’t call the next turn: when the researchers checked whether hemlines could warn of a recession, they didn’t.
+Supporting line: In 2010, two economists coded almost 90 years of hemlines from a French fashion magazine. The economy did shape skirt lengths, but about 3 years later, once trends had time to be designed, made and worn. So the skirts do follow the economy. They just can’t call the next turn: when the researchers checked, hemlines gave no early warning of a recession.
  
 Citation: (van Baardwijk & Franses, 2010)
  
@@ -77,7 +79,7 @@ Citation: (Google, 2026)
  
 ---
 
-## `Slide 7: THE COST`
+## `Slide 7: THE CATCH`
  
 **Headline:** Fashion might follow the market. But the market isn't *most* people's money.
  
@@ -107,13 +109,13 @@ Citation: (U.S. Bureau of Labor Statistics, 2025, 2026)
  
 ---
 
-## `Slide 9: THE TAKE`
+## `Slide 9: THE TAKE` 
  
 **Headline:** Long story short: the skirt only tells part of the story.
  
-Supporting line: It’s a fun idea and it’ll be back every spring. But the people a downturn reaches first won’t be the ones changing their hemlines, they show up in the jobs data.
+Supporting line: It’s a fun idea, and it’ll be back every spring. Skirts can catch the mood of a moment, and the research says they echo where the economy has been. What a hemline can’t show is who owns the market it’s read against, or whose jobs go first when it turns. That’s the rest of the story.
  
-Closing line: For some of us it’s a trend. For the rest, it hits before the skirts do.
+Closing line: For some of us it’s a trend. For the rest, the downturn hits before the skirts do.
  
 *(footer: 8/9)*
  
