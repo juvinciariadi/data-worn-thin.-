@@ -36,6 +36,7 @@ Issues rotate through five recurring pillars:
 | 07 | Reign, Rewear. | 1 |
 | 08 | One's Uniform, Everyone's Aesthetic | 2 |
 | 09 | Behind The Label, Worn At The Seams. | 3 |
+| 10 | Long Story, Short Skirt. | 5 |
 
 Pillar numbers match the list under "What it covers" above.
 
