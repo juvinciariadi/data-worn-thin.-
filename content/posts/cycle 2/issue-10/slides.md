@@ -40,3 +40,17 @@ Citation: (Lapuerta, 2025, 2026; van Baardwijk & Franses, 2010)
 *(footer: 2/9)*
  
 ---
+
+## `Slide 4: THE ORIGIN`
+ 
+**Headline:** The man credited with the hemline index was writing about *stockings*.
+ 
+Supporting line: In **1929**, a Wharton PhD student studied why stocking sales boomed in the 1920s. One reason: shorter skirts put more leg on show, so women bought better stockings, more often. That's it. That's the theory. He never said skirts could predict the economy. That part got added later, somewhere between the retelling and the reposting.
+ 
+Citation: (Taylor, 1929, pp. 27, 115)
+ 
+Visual note: Include a picture of George W. Taylor
+ 
+*(footer: 3/9)*
+ 
+---
