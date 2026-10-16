@@ -21,10 +21,6 @@ Credit line (small, under the subtitle): Inspired by @databutmakeitfashion
  
 Supporting line: Sabrina Carpenter took the Coachella stage in custom Dior. Soon after, a jump in miniskirt popularity was being read online as good news for the stock market. Nobody asked the skirt. The idea has a name, and it's older than your grandmother's stockings: the hemline index.
  
-Citation: (Marie Claire, 2026; Lapuerta, 2026)
- 
-Visual note: Sabrina at Coachella 2026
- 
 *(footer: 1/9)*
  
 --- 
@@ -59,9 +55,9 @@ Visual note: Include a picture of George W. Taylor
  
 **Headline:** When researchers tested it, the skirts were always *late*.
  
-Supporting line: In 2010, two economists coded almost **90 years** of hemlines from a French fashion magazine. The economy did shape skirt lengths, but about **3 years** later, once trends had time to be designed, made and worn. When they checked whether skirts could warn of a recession, they found nothing. One of them now calls the hemline index an urban legend.
+Supporting line: In 2010, two economists coded almost 90 years of hemlines from a French fashion magazine. The economy did shape skirt lengths, but about 3 years later, once trends had time to be designed, made and worn. So the skirts do follow the economy. They just can’t call the next turn: when the researchers checked whether hemlines could warn of a recession, they didn’t.
  
-Citation: (Van Baardwijk & Franses, 2010; Het Financieele Dagblad, 2025)
+Citation: (van Baardwijk & Franses, 2010)
  
 *(footer: 4/9)*
  
@@ -113,7 +109,7 @@ Citation: (U.S. Bureau of Labor Statistics, 2025, 2026)
 
 ## `Slide 9: THE TAKE`
  
-**Headline:** Long story short: the skirt was *never* the signal.
+**Headline:** Long story short: the skirt only tells part of the story.
  
 Supporting line: It’s a fun idea and it’ll be back every spring. But the people a downturn reaches first won’t be the ones changing their hemlines, they show up in the jobs data.
  
